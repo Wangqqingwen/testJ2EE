@@ -13,6 +13,7 @@ import java.util.Random;
  **/
 public class PracticsThread2 {
     public static void main(String[] args) {
+        //出现栈和堆溢出情况，代码有问题
         ///////////////////////////////
         //1. 生成一个长度是3的随机字符串，把这个字符串当作 密码
         //
