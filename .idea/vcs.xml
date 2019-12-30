@@ -2,6 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="/usr/local/git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../文档/test/project/J2EE-OK" vcs="Git" />
   </component>
 </project>
